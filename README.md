@@ -12,4 +12,4 @@ ICPC 류, 알고리즘 문제를 정리하기 위해 만든
 http://phigaro.tistory.com/
 에 등록 해 놓았으니 이에 참고 바랍니다.
 
-Created by HJH
+Created by Phigaro
